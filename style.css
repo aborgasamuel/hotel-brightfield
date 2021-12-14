@@ -1,0 +1,56 @@
+nav .row {
+  margin-bottom:0;
+}
+.txt1{
+  background-color: indianred;
+}
+.image1{
+  margin-left: 5cm;
+}
+.hr-theme-slash-2 {
+  display: flex;
+}
+  
+  .hr-line {
+    width: 100%;
+    position: relative;
+    margin: 15px;
+    border-bottom: 1px groove black;
+  }
+  .hr-icon {
+    position: relative;
+    top: 3px;
+    color: #ff0000;
+  }
+  h2{
+    text-align: center;
+    font-family: 'times new roman'
+  }
+  h5{
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .subb_one{
+    border: 1px solid black;
+   }
+   .subb_two{
+    border: 1px solid black;
+   }
+   .subb_three{
+    border: 1px solid black;
+   }
+   .subb_four{
+    border: 1px solid black;
+   }
+   .subb_five{
+    border: 1px solid black;
+   }
+   .subb_six{
+    border: 1px solid black;
+   }
+   .container_six{
+       text-align: center;
+       background-color: #333;
+       color: white;
+   }
+   
+  
